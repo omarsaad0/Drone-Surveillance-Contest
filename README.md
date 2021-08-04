@@ -10,6 +10,7 @@ A custom yolov4 model is created, the dataset is created from the given video, t
 
 The inside REAMME.md file explains all the steps from installing the required libraries in an environment in conda or using pip to run detection and tracking on videos or webcam. 
 
+https://www.youtube.com/watch?v=l81wMCmdvCk
 
 https://user-images.githubusercontent.com/76915795/128122809-c0e1cbfc-2139-4fba-8e33-3831bf8c5ff7.mp4
 
